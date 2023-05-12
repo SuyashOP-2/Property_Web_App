@@ -1,9 +1,9 @@
 Designed and Developed MERN Based fully functional web app with
 TypeScript as Frontend, Node js, Express js as a Backend and MongoDB
 Database
-Property Agents can create,update,delete the property
-Added Pagination, Filtering,Sorting for various sections in the app
-Provide a quick and easy way for users to log in and register using
+Property Agents can create,update,delete property
+Added Pagination,Filtering,Sorting for various sections in the app
+Provide  quick and easy way for users to log in and register using
 Google Auth
 
 ### Start
