@@ -3,7 +3,7 @@ TypeScript as Frontend, Node js, Express js as a Backend and MongoDB
 Database
 Property Agents can create,update,delete property
 Added Pagination,Filtering,Sorting for various sections in the app
-Provide  quick and easy way for users to log in and register using
+Provide  quick and easy way for users to login register using
 Google Auth
 
 ### Start
